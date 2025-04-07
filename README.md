@@ -14,8 +14,8 @@ frameworks and optimizing test execution efficiency. Passionate about delivering
 through automated testing solutions
 
 - 🌱 Learning: Advanced Selenium techniques and CI/CD optimization.
-- 💡 Fun Fact: I turned off Maven Surefire because it annoyed me—now it’s smoother!
-- 📫 Reach me: [priyagrajsharma2699@gmail.com](mailto:priyagrajsharma2699@gmail.com) (replace with your email).
+- 💡 Fun Fact: Automation engineers can set up scripts to run 24/7, but they still need their coffee☕ breaks — unlike the bots they create!
+- 📫 Reach me: [priyagrajsharma2699@gmail.com](mailto:priyagrajsharma2699@gmail.com) .
 
 ## 🛠️ Tech Stack
 <p align="center">
@@ -57,5 +57,5 @@ through automated testing solutions
       <img src="https://cdn1.iconfinder.com/data/icons/bootstrap-fill-vol-2/16/github-1024.png" alt="GitHub" width="50" height="50" style="filter: drop-shadow(0 0 5px #181717); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
   </p>
-  <p style="color: #00ffcc; font-size: 16px; margin-top: 10px;">Click the icons to connect with me! 🌟</p>
+  <p style="color: #00ffcc; font-size: 16px; margin-top: 10px;">🌟 Click the icons to connect with me! 🌟</p>
 </div>
