@@ -47,7 +47,7 @@ through automated testing solutions
     <a href="https://www.youtube.com/@PoorProgrammer1448" target="_blank" style="margin: 0 15px; transition: transform 0.3s;">
       <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-youtube-circle-512.png" alt="YouTube" width="50" height="50" style="filter: drop-shadow(0 0 5px #FF0000); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
-    <a href="[priyagrajsharma2699@gmail.com](mailto:priyagrajsharma2699@gmail.com)" target="_blank" style="margin: 0 15px; transition: transform 0.3s;">
+    <a href="mailto:priyagrajsharma2699@gmail.com" target="_blank" style="margin: 0 15px; transition: transform 0.3s;">
       <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" alt="Gmail" width="50" height="50" style="filter: drop-shadow(0 0 5px #D14836); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
     <a href="https://leetcode.com/u/priyagrajsharma2699/" target="_blank" style="margin: 0 15px; transition: transform 0.3s;">
