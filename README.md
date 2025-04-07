@@ -44,20 +44,17 @@ through automated testing solutions
     <a href="https://www.linkedin.com/in/priyag-raj-sharma-796779190/" target="_blank" style="margin: 0 15px; transition: transform 0.3s;">
       <img src="https://img.icons8.com/?size=512&id=13930&format=png" alt="LinkedIn" width="50" height="50" style="filter: drop-shadow(0 0 5px #0077B5); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
-    <a href="https://www.youtube.com/@priyagraj2610" target="_blank" style="margin: 0 15px; transition: transform 0.3s;">
+    <a href="https://www.youtube.com/@PoorProgrammer1448" target="_blank" style="margin: 0 15px; transition: transform 0.3s;">
       <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-youtube-circle-512.png" alt="YouTube" width="50" height="50" style="filter: drop-shadow(0 0 5px #FF0000); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
-    <a href="mailto:priyagrajsharma2699@gmail.com" target="_blank" style="margin: 0 15px; transition: transform 0.3s;">
+    <a href="[priyagrajsharma2699@gmail.com](mailto:priyagrajsharma2699@gmail.com)" target="_blank" style="margin: 0 15px; transition: transform 0.3s;">
       <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" alt="Gmail" width="50" height="50" style="filter: drop-shadow(0 0 5px #D14836); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
-    <a href="https://leetcode.com/priyagrajsharma/" target="_blank" style="margin: 0 15px; transition: transform 0.3s;">
+    <a href="https://leetcode.com/u/priyagrajsharma2699/" target="_blank" style="margin: 0 15px; transition: transform 0.3s;">
       <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/leetcode-xp0gbbxtpmnkjk8uhdrmhg.png/leetcode-jj5yfhjdsmrt5j9xb3sec.png?_a=DAJFJtWIZAAC" alt="LeetCode" width="50" height="50" style="filter: drop-shadow(0 0 5px #FFA500); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
     <a href="https://github.com/PRIYAGRAJ2610" target="_blank" style="margin: 0 15px; transition: transform 0.3s;">
       <img src="https://cdn1.iconfinder.com/data/icons/bootstrap-fill-vol-2/16/github-1024.png" alt="GitHub" width="50" height="50" style="filter: drop-shadow(0 0 5px #181717); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-    </a>
-    <a href="https://www.facebook.com/priyagraj.sharma" target="_blank" style="margin: 0 15px; transition: transform 0.3s;">
-      <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="50" height="50" style="filter: drop-shadow(0 0 5px #1877F2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
   </p>
   <p style="color: #00ffcc; font-size: 16px; margin-top: 10px;">Click the icons to connect with me! 🌟</p>
