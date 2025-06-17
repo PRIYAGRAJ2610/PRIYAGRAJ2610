@@ -19,7 +19,7 @@ through automated testing solutions
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=blue" alt="Java" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/TestNG-C41A16?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
