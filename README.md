@@ -38,6 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
 </p>
 
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp; <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" title="Postman" alt="Postman" width="50" height="50"/>&nbsp; <img src="https://seeklogo.com/images/J/jira-logo-FD7B982D00-seeklogo.com.png" title="Jira" alt="Jira" width="50" height="50"/>&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/TestRail_Logo.svg" title="TestRail" alt="TestRail" width="50" height="50"/> </p>
+
 
 ## 📊 GitHub Stats
 <p align="center">
