@@ -15,6 +15,10 @@
   - 🌱 Learning: Advanced Selenium techniques and CI/CD optimization.
   - 💡 Fun Fact: Automation engineers can set up scripts to run 24/7, but they still need their coffee☕ breaks — unlike the bots they create!
   - 📢 Reach me: <a href="mailto:priyagrajsharma2699@gmail.com" style="color:#58a6ff;">priyagrajsharma2699@gmail.com</a>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding" width="300"/>
+  </div>
 </div>
 
 ## 🏹 My Armory
