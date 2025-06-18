@@ -18,7 +18,14 @@
 </div>
 
 ## 🏹 My Armory
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="50" height="50"/>&nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" title="Jira" alt="Jira" width="50" height="50"/>&nbsp;</p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" title="Jira" alt="Jira" width="50" height="50"/>&nbsp;</p>
+
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PRIYAGRAJ2610&show_icons=true&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYAGRAJ2610&theme=tokyonight&hide_border=false&background=0d1117&ring=58a6ff&fire=ff9933&currStreakLabel=ffffff" alt="GitHub Streak" />
+</p>
 
 ## 🛠️ Tech Stack
 <p align="center">
@@ -29,13 +36,6 @@
   <img src="https://img.shields.io/badge/Allure-FF6F61?style=for-the-badge&logo=allure&logoColor=white" alt="Allure" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRIYAGRAJ2610&show_icons=true&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYAGRAJ2610&theme=tokyonight&hide_border=false&background=0d1117&ring=58a6ff&fire=ff9933&currStreakLabel=ffffff" alt="GitHub Streak" />
 </p>
 
 ## 🚀 Projects
