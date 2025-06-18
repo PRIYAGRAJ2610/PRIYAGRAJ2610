@@ -43,4 +43,21 @@
 
 <div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
   <p>
-    <a href="https://www.linkedin.com/in/priyag-raj
+    <a href="https://www.linkedin.com/in/priyag-raj-sharma-796779190/" target="_blank">
+      <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="45" style="margin:0 10px;"/>
+    </a>
+    <a href="https://www.youtube.com/@PoorProgrammer1448" target="_blank">
+      <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-youtube-circle-512.png" alt="YouTube" width="45" style="margin:0 10px;"/>
+    </a>
+    <a href="mailto:priyagrajsharma2699@gmail.com" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="45" style="margin:0 10px; background-color:#d44638; border-radius: 50%; padding: 3px;"/>
+    </a>
+    <a href="https://leetcode.com/u/priyagrajsharma2699/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="45" style="margin:0 10px; background-color:#f0b90b; border-radius: 50%; padding: 3px;"/>
+    </a>
+    <a href="https://github.com/PRIYAGRAJ2610" target="_blank">
+      <img src="https://img.icons8.com/ios-glyphs/90/ffffff/github.png" alt="GitHub" width="45" style="margin:0 10px; background-color:#6e40c9; border-radius: 50%; padding: 3px;"/>
+    </a>
+  </p>
+  <p style="color:#58a6ff; font-size: 16px; margin-top: 10px;">🌟 Click the icons to connect with me! 🌟</p>
+</div>
