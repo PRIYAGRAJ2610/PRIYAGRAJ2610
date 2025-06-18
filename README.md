@@ -8,13 +8,13 @@
   <img src="https://github.com/PRIYAGRAJ2610/PRIYAGRAJ2610/blob/main/banner.gif?raw=true" alt="Cool Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
-## 👨‍💻 About Me
+## 👨‍💼 About Me
 <div style="background-color:#161b22; padding: 20px; border-radius: 10px; color: #c9d1d9;">
   Results-driven Automation Engineer with expertise in Selenium WebDriver, NUnit, TestNG, and Java, specializing in web automation testing. Experienced in designing and maintaining scalable test frameworks and optimizing test execution efficiency. Passionate about delivering high-quality software through automated testing solutions.
 
   - 🌱 Learning: Advanced Selenium techniques and CI/CD optimization.
   - 💡 Fun Fact: Automation engineers can set up scripts to run 24/7, but they still need their coffee☕ breaks — unlike the bots they create!
-  - 📫 Reach me: <a href="mailto:priyagrajsharma2699@gmail.com" style="color:#58a6ff;">priyagrajsharma2699@gmail.com</a>
+  - 📢 Reach me: <a href="mailto:priyagrajsharma2699@gmail.com" style="color:#58a6ff;">priyagrajsharma2699@gmail.com</a>
 </div>
 
 ## 🛠️ Tech Stack
@@ -43,12 +43,4 @@
 
 <div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
   <p>
-    <a href="https://www.linkedin.com/in/priyag-raj-sharma-796779190/" target="_blank">
-      <img src="https://img.icons8.com/?size=512&id=13930&format=png" alt="LinkedIn" width="45" style="margin:0 10px;"/>
-    </a>
-    <a href="https://www.youtube.com/@PoorProgrammer1448" target="_blank">
-      <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-youtube-circle-512.png" alt="YouTube" width="45" style="margin:0 10px;"/>
-    </a>
-    <a href="mailto:priyagrajsharma2699@gmail.com" target="_blank">
-      <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" alt="Gmail" width="45" style="margin:0 10px;"/>
-    </a>
+    <a href="https://www.linkedin.com/in/priyag-raj
