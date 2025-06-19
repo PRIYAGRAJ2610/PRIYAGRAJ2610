@@ -28,9 +28,8 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PRIYAGRAJ2610&show_icons=true&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide=rank" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=PRIYAGRAJ2610&theme=tokyonight&hide_border=false&background=0d1117&ring=58a6ff&fire=ff9933&currStreakLabel=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PRIYAGRAJ2610&theme=tokyonight&hide_border=false&background=0d1117&ring=58a6ff&fire=ff9933&currStreakLabel=ffffff" alt="GitHub Streak" />
 </p>
-<p dir="auto"><a href="#"><img src="https://camo.githubusercontent.com/4bd566a3f41dc5d4afa5f99ebde8e111c52a80881e9599235e225f432cae813f/68747470733a2f2f6769746875622d726561646d652d6d77656e6477612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6f686e6d77656e647761266c61796f75743d636f6d7061637426636f756e745f707269766174653d74727565267468656d653d626c75652d677265656e267469746c655f636f6c6f723d303062336666" alt="Top languages" data-canonical-src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=PRIYAGRAJ2610&amp;layout=compact&amp;count_private=true&amp;theme=blue-green&amp;title_color=00b3ff" style="max-width: 100%;"></a></p>
 
 ## 🛠️ Tech Stack
 <p align="center">
