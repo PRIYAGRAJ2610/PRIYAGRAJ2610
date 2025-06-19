@@ -27,9 +27,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=PRIYAGRAJ2610&show_icons=true&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide=rank" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=PRIYAGRAJ2610&theme=tokyonight&hide_border=false&background=0d1117&ring=58a6ff&fire=ff9933&currStreakLabel=ffffff" alt="GitHub Streak" />
-</p>
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/api?user=PRIYAGRAJ2610&theme=tokyonight&hide_border=false&background=0d1117&ring=58a6ff&fire=ff9933&currStreakLabel=ffffff" alt="GitHub Streak" />
+  
+  </p>
+
 
 ## 🛠️ Tech Stack
 <p align="center">
@@ -40,6 +45,9 @@
   <img src="https://img.shields.io/badge/Allure-FF6F61?style=for-the-badge&logo=allure&logoColor=white" alt="Allure" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+ <p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYAGRAJ2610&layout=compact&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
 </p>
 
 ## 🚀 Projects
