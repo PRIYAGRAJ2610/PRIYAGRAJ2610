@@ -28,12 +28,11 @@
 ## 📊 GitHub Stats
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PRIYAGRAJ2610&show_icons=true&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide=rank" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PRIYAGRAJ2610&show_icons=true&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide=rank" alt="GitHub Stats" />  
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=PRIYAGRAJ2610&theme=tokyonight&hide_border=false&background=0d1117&ring=58a6ff&fire=ff9933&currStreakLabel=ffffff" alt="GitHub Streak" />
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/api?user=PRIYAGRAJ2610&theme=tokyonight&hide_border=false&background=0d1117&ring=58a6ff&fire=ff9933&currStreakLabel=ffffff" alt="GitHub Streak" />
-  
   </p>
+
 
 
 ## 🛠️ Tech Stack
